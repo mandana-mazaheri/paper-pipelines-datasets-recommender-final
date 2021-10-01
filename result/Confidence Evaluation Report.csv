@@ -1,0 +1,289 @@
+Pipelines,Datasets,Status,Average expert confidence
+ApplyTOPUP,cneuromod,failed,4.0
+ApplyWarp,Comparing_Perturbation_Modes_for_Evaluating_Instabilities_in_Neuroimaging__Processed_NKI_RS_Subset__08_2019_,failed,3.5
+ApplyWarp,Learning_Naturalistic_Structure__Processed_fMRI_dataset,success,4.0
+ApplyWarp,Numerically_Perturbed_Structural_Connectomes_from_100_individuals_in_the_NKI_Rockland_Dataset,failed,3.5
+ApplyWarp,cneuromod,failed,3.5
+ApplyWarp,multicenter-phantom,failed,3.5
+ApplyWarp,preventad-open-bids,success,3.5
+BIDS App - FSL Diffusion Preprocessing,Comparing_Perturbation_Modes_for_Evaluating_Instabilities_in_Neuroimaging__Processed_NKI_RS_Subset__08_2019_,failed,4.0
+BIDS App - FSL Diffusion Preprocessing,Khanlab/HCPUR100-Template,failed,3.0
+BIDS App - FSL Diffusion Preprocessing,Numerically_Perturbed_Structural_Connectomes_from_100_individuals_in_the_NKI_Rockland_Dataset,failed,4.0
+BIDS App - FSL Diffusion Preprocessing,SIMON-dataset,failed,3.0
+BIDS App - FreeSurfer 6.0,Khanlab/HCPUR100-Template,success,3.5
+BIDS App - FreeSurfer 6.0,Learning_Naturalistic_Structure__Processed_fMRI_dataset,failed,4.0
+BIDS App - FreeSurfer 6.0,SIMON-dataset,success,3.5
+BIDS App - FreeSurfer 6.0,cneuromod,failed,4.0
+BIDS App - FreeSurfer 6.0,multicenter-phantom,failed,3.5
+BIDS App - FreeSurfer 6.0,openpain/BrainNetworkChange_Mano,success,3.5
+BIDS App - FreeSurfer 6.0,openpain/cbp_resting,success,3.5
+BIDS App - FreeSurfer 6.0,openpain/placebo_1,success,3.5
+BIDS App - FreeSurfer 6.0,openpain/placebo_predict_tetreault,failed,3.5
+BIDS App - FreeSurfer 6.0,openpain/subacute_longitudinal_study,success,3.5
+BIDS App - FreeSurfer 6.0,openpain/thermal,success,3.5
+BIDS App - FreeSurfer 6.0,preventad-open,failed,3.5
+BIDS App - FreeSurfer 6.0,preventad-open-bids,failed,3.5
+BIDS App - fmriprep,BigBrain,failed,3.0
+BIDS App - fmriprep,BigBrain_3DClassifiedVolumes,failed,3.0
+BIDS App - fmriprep,Learning_Naturalistic_Structure__Processed_fMRI_dataset,failed,4.0
+BIDS App - fmriprep,SIMON-dataset,success,3.0
+BIDS App - fmriprep,cneuromod,failed,3.75
+BIDS App - fmriprep,mm_neo_atlas,failed,3.0
+BIDS App - fmriprep,multicenter-phantom,failed,3.5
+BIDS App - fmriprep,openpain/BrainNetworkChange_Mano,failed,3.0
+BIDS App - fmriprep,openpain/cbp_resting,failed,3.0
+BIDS App - fmriprep,openpain/placebo_1,failed,3.0
+BIDS App - fmriprep,openpain/placebo_predict_tetreault,success,3.0
+BIDS App - fmriprep,openpain/subacute_longitudinal_study,success,3.0
+BIDS App - fmriprep,openpain/thermal,failed,3.0
+BIDS App - fmriprep,preventad-open-bids,success,3.25
+BIDS App - fmriprep,visual-working-memory,failed,3.0
+BIDS App - ndmg,Comparing_Perturbation_Modes_for_Evaluating_Instabilities_in_Neuroimaging__Processed_NKI_RS_Subset__08_2019_,failed,4.0
+BIDS App - ndmg,Khanlab/HCPUR100-Template,failed,3.0
+BIDS App - ndmg,Numerically_Perturbed_Structural_Connectomes_from_100_individuals_in_the_NKI_Rockland_Dataset,failed,4.0
+BIDS App - ndmg,SIMON-dataset,success,3.0
+BIDS app example,Comparing_Perturbation_Modes_for_Evaluating_Instabilities_in_Neuroimaging__Processed_NKI_RS_Subset__08_2019_,failed,4.0
+BIDS app example,Numerically_Perturbed_Structural_Connectomes_from_100_individuals_in_the_NKI_Rockland_Dataset,failed,4.0
+BIDS app example,SIMON-dataset,success,3.5
+BIDS app example,cneuromod,failed,3.5
+BIDS app example,openpain/BrainNetworkChange_Mano,success,3.5
+BIDS app example,openpain/cbp_resting,success,3.5
+BIDS app example,openpain/placebo_1,success,3.5
+BIDS app example,openpain/placebo_predict_tetreault,failed,3.5
+BIDS app example,openpain/subacute_longitudinal_study,success,3.5
+BIDS app example,openpain/thermal,success,3.5
+BIDS app example,preventad-open-bids,success,3.5
+BrainExtraction,Khanlab/HCPUR100-Template,success,3.0
+BrainExtraction,Learning_Naturalistic_Structure__Processed_fMRI_dataset,success,3.5
+BrainExtraction,SIMON-dataset,success,3.0
+BrainExtraction,cneuromod,failed,4.0
+BrainExtraction,multicenter-phantom,failed,3.5
+BrainExtraction,openpain/BrainNetworkChange_Mano,success,3.0
+BrainExtraction,openpain/cbp_resting,success,3.0
+BrainExtraction,openpain/placebo_1,success,3.0
+BrainExtraction,openpain/placebo_predict_tetreault,success,3.0
+BrainExtraction,openpain/subacute_longitudinal_study,success,3.0
+BrainExtraction,openpain/thermal,success,3.0
+BrainExtraction,preventad-open,failed,3.0
+BrainExtraction,preventad-open-bids,success,3.25
+ConcatTransfo,Learning_Naturalistic_Structure__Processed_fMRI_dataset,failed,4.0
+ConcatTransfo,cneuromod,failed,4.0
+ConcatTransfo,multicenter-phantom,failed,3.5
+ConcatTransfo,preventad-open-bids,failed,3.5
+CorticalThickness,Learning_Naturalistic_Structure__Processed_fMRI_dataset,failed,3.5
+CorticalThickness,cneuromod,failed,3.5
+CorticalThickness,multicenter-phantom,failed,3.0
+CorticalThickness,preventad-open-bids,success,3.0
+DTIFit,Comparing_Perturbation_Modes_for_Evaluating_Instabilities_in_Neuroimaging__Processed_NKI_RS_Subset__08_2019_,failed,3.5
+DTIFit,Khanlab/HCPUR100-Template,failed,3.0
+DTIFit,Numerically_Perturbed_Structural_Connectomes_from_100_individuals_in_the_NKI_Rockland_Dataset,failed,3.5
+DTIFit,SIMON-dataset,success,3.0
+Dipy Tracking and Connectome Generation,Comparing_Perturbation_Modes_for_Evaluating_Instabilities_in_Neuroimaging__Processed_NKI_RS_Subset__08_2019_,failed,4.0
+Dipy Tracking and Connectome Generation,Numerically_Perturbed_Structural_Connectomes_from_100_individuals_in_the_NKI_Rockland_Dataset,failed,4.0
+Dipy Tracking and Connectome Generation,SIMON-dataset,success,3.0
+Dipy Tracking and Connectome Generation,cneuromod,failed,3.5
+FLIRT,Comparing_Perturbation_Modes_for_Evaluating_Instabilities_in_Neuroimaging__Processed_NKI_RS_Subset__08_2019_,failed,4.0
+FLIRT,Khanlab/BigBrainHippoUnfold,success,3.5
+FLIRT,Learning_Naturalistic_Structure__Processed_fMRI_dataset,success,3.75
+FLIRT,Numerically_Perturbed_Structural_Connectomes_from_100_individuals_in_the_NKI_Rockland_Dataset,failed,4.0
+FLIRT,SIMON-dataset,success,3.5
+FLIRT,cneuromod,failed,3.75
+FLIRT,multicenter-phantom,failed,3.5
+FLIRT,openpain/BrainNetworkChange_Mano,success,3.5
+FLIRT,openpain/cbp_resting,success,3.5
+FLIRT,openpain/placebo_1,failed,3.5
+FLIRT,openpain/placebo_predict_tetreault,success,3.5
+FLIRT,openpain/subacute_longitudinal_study,success,3.5
+FLIRT,openpain/thermal,success,3.5
+FLIRT,preventad-open,failed,3.5
+FLIRT,preventad-open-bids,success,3.5
+FNIRT,Comparing_Perturbation_Modes_for_Evaluating_Instabilities_in_Neuroimaging__Processed_NKI_RS_Subset__08_2019_,failed,4.0
+FNIRT,Khanlab/BigBrainHippoUnfold,success,3.5
+FNIRT,Learning_Naturalistic_Structure__Processed_fMRI_dataset,success,3.5
+FNIRT,Numerically_Perturbed_Structural_Connectomes_from_100_individuals_in_the_NKI_Rockland_Dataset,failed,4.0
+FNIRT,SIMON-dataset,success,3.5
+FNIRT,cneuromod,failed,3.5
+FNIRT,multicenter-phantom,failed,3.0
+FNIRT,openpain/BrainNetworkChange_Mano,success,3.5
+FNIRT,openpain/cbp_resting,success,3.5
+FNIRT,openpain/placebo_1,success,3.5
+FNIRT,openpain/placebo_predict_tetreault,success,3.5
+FNIRT,openpain/subacute_longitudinal_study,success,3.5
+FNIRT,openpain/thermal,success,3.5
+FNIRT,preventad-open,failed,3.5
+FNIRT,preventad-open-bids,success,3.25
+FreeSurfer-Recon-all,Learning_Naturalistic_Structure__Processed_fMRI_dataset,failed,3.75
+FreeSurfer-Recon-all,SIMON-dataset,success,3.5
+FreeSurfer-Recon-all,cneuromod,failed,4.0
+FreeSurfer-Recon-all,multicenter-phantom,failed,3.5
+FreeSurfer-Recon-all,openpain/BrainNetworkChange_Mano,success,3.5
+FreeSurfer-Recon-all,openpain/cbp_resting,success,3.5
+FreeSurfer-Recon-all,openpain/placebo_1,success,3.5
+FreeSurfer-Recon-all,openpain/placebo_predict_tetreault,success,3.5
+FreeSurfer-Recon-all,openpain/subacute_longitudinal_study,failed,3.5
+FreeSurfer-Recon-all,openpain/thermal,failed,3.5
+FreeSurfer-Recon-all,preventad-open,failed,3.5
+FreeSurfer-Recon-all,preventad-open-bids,success,3.5
+FreeSurferPipelineBatch-CentOS7,Learning_Naturalistic_Structure__Processed_fMRI_dataset,success,4.0
+FreeSurferPipelineBatch-CentOS7,cneuromod,failed,4.0
+FreeSurferPipelineBatch-CentOS7,multicenter-phantom,success,3.5
+FreeSurferPipelineBatch-CentOS7,preventad-open-bids,failed,3.5
+FslBet601,Comparing_Perturbation_Modes_for_Evaluating_Instabilities_in_Neuroimaging__Processed_NKI_RS_Subset__08_2019_,failed,4.0
+FslBet601,Khanlab/HCPUR100-Template,success,3.5
+FslBet601,Learning_Naturalistic_Structure__Processed_fMRI_dataset,failed,3.75
+FslBet601,Numerically_Perturbed_Structural_Connectomes_from_100_individuals_in_the_NKI_Rockland_Dataset,failed,4.0
+FslBet601,SIMON-dataset,success,3.5
+FslBet601,cneuromod,failed,3.75
+FslBet601,multicenter-phantom,failed,3.5
+FslBet601,openpain/BrainNetworkChange_Mano,success,3.5
+FslBet601,openpain/cbp_resting,success,3.5
+FslBet601,openpain/placebo_1,success,3.5
+FslBet601,openpain/placebo_predict_tetreault,success,3.5
+FslBet601,openpain/subacute_longitudinal_study,success,3.5
+FslBet601,openpain/thermal,success,3.5
+FslBet601,preventad-open,failed,3.5
+FslBet601,preventad-open-bids,success,3.5
+ICA_AROMA,Learning_Naturalistic_Structure__Processed_fMRI_dataset,failed,3.5
+ICA_AROMA,SIMON-dataset,failed,3.0
+ICA_AROMA,cneuromod,failed,4.0
+ICA_AROMA,multicenter-phantom,failed,3.5
+ICA_AROMA,openpain/BrainNetworkChange_Mano,failed,3.0
+ICA_AROMA,openpain/cbp_resting,failed,3.0
+ICA_AROMA,openpain/placebo_1,failed,3.0
+ICA_AROMA,openpain/placebo_predict_tetreault,failed,3.0
+ICA_AROMA,openpain/subacute_longitudinal_study,failed,3.0
+ICA_AROMA,openpain/thermal,failed,3.0
+ICA_AROMA,preventad-open,failed,3.0
+ICA_AROMA,preventad-open-bids,failed,3.25
+MCFLIRT,Learning_Naturalistic_Structure__Processed_fMRI_dataset,failed,3.75
+MCFLIRT,SIMON-dataset,success,3.5
+MCFLIRT,cneuromod,failed,3.5
+MCFLIRT,multicenter-phantom,failed,3.5
+MCFLIRT,openpain/BrainNetworkChange_Mano,success,3.5
+MCFLIRT,openpain/cbp_resting,failed,3.5
+MCFLIRT,openpain/placebo_1,success,3.5
+MCFLIRT,openpain/placebo_predict_tetreault,success,3.5
+MCFLIRT,openpain/subacute_longitudinal_study,success,3.5
+MCFLIRT,openpain/thermal,success,3.5
+MCFLIRT,preventad-open,failed,3.5
+MCFLIRT,preventad-open-bids,success,3.5
+MRIQC,Learning_Naturalistic_Structure__Processed_fMRI_dataset,failed,4.0
+MRIQC,cneuromod,failed,4.0
+MRIQC,multicenter-phantom,failed,3.5
+MRIQC,preventad-open-bids,failed,3.5
+PreFreeSurferPipelineBatch,Learning_Naturalistic_Structure__Processed_fMRI_dataset,failed,3.5
+PreFreeSurferPipelineBatch,SIMON-dataset,failed,3.5
+PreFreeSurferPipelineBatch,openpain/BrainNetworkChange_Mano,failed,3.5
+PreFreeSurferPipelineBatch,openpain/cbp_resting,failed,3.5
+PreFreeSurferPipelineBatch,openpain/placebo_1,failed,3.5
+PreFreeSurferPipelineBatch,openpain/placebo_predict_tetreault,failed,3.5
+PreFreeSurferPipelineBatch,openpain/subacute_longitudinal_study,failed,3.5
+PreFreeSurferPipelineBatch,openpain/thermal,failed,3.5
+PreFreeSurferPipelineBatch,preventad-open,failed,3.5
+PreFreeSurferPipelineBatch,preventad-open-bids,failed,3.5
+SPARK (stage 1 of 3),BigBrain,failed,3.0
+SPARK (stage 1 of 3),BigBrain_3DClassifiedVolumes,failed,3.0
+SPARK (stage 1 of 3),cneuromod,failed,3.5
+SPARK (stage 1 of 3),mm_neo_atlas,failed,3.0
+SPARK (stage 1 of 3),visual-working-memory,success,3.0
+TOPUP,cneuromod,failed,4.0
+fsl_anat,Comparing_Perturbation_Modes_for_Evaluating_Instabilities_in_Neuroimaging__Processed_NKI_RS_Subset__08_2019_,failed,3.5
+fsl_anat,Learning_Naturalistic_Structure__Processed_fMRI_dataset,failed,3.5
+fsl_anat,Numerically_Perturbed_Structural_Connectomes_from_100_individuals_in_the_NKI_Rockland_Dataset,failed,3.5
+fsl_anat,cneuromod,failed,3.25
+fsl_anat,multicenter-phantom,failed,3.0
+fsl_anat,preventad-open-bids,success,3.0
+fsl_bet,Comparing_Perturbation_Modes_for_Evaluating_Instabilities_in_Neuroimaging__Processed_NKI_RS_Subset__08_2019_,failed,4.0
+fsl_bet,Khanlab/HCPUR100-Template,success,3.5
+fsl_bet,Learning_Naturalistic_Structure__Processed_fMRI_dataset,success,3.75
+fsl_bet,Numerically_Perturbed_Structural_Connectomes_from_100_individuals_in_the_NKI_Rockland_Dataset,failed,4.0
+fsl_bet,SIMON-dataset,success,3.5
+fsl_bet,cneuromod,failed,3.75
+fsl_bet,multicenter-phantom,failed,3.5
+fsl_bet,openpain/BrainNetworkChange_Mano,success,3.5
+fsl_bet,openpain/cbp_resting,success,3.5
+fsl_bet,openpain/placebo_1,success,3.5
+fsl_bet,openpain/placebo_predict_tetreault,success,3.5
+fsl_bet,openpain/subacute_longitudinal_study,success,3.5
+fsl_bet,openpain/thermal,success,3.5
+fsl_bet,preventad-open,success,3.5
+fsl_bet,preventad-open-bids,success,3.5
+fsl_fast,BigBrain,failed,3.0
+fsl_fast,BigBrain_3DClassifiedVolumes,failed,3.0
+fsl_fast,Khanlab/HCPUR100-Template,success,3.5
+fsl_fast,Learning_Naturalistic_Structure__Processed_fMRI_dataset,failed,3.5
+fsl_fast,SIMON-dataset,success,3.5
+fsl_fast,cneuromod,failed,3.5
+fsl_fast,mm_neo_atlas,failed,3.0
+fsl_fast,multicenter-phantom,success,3.0
+fsl_fast,openpain/BrainNetworkChange_Mano,success,3.5
+fsl_fast,openpain/cbp_resting,success,3.5
+fsl_fast,openpain/placebo_1,success,3.5
+fsl_fast,openpain/placebo_predict_tetreault,success,3.5
+fsl_fast,openpain/subacute_longitudinal_study,success,3.5
+fsl_fast,openpain/thermal,failed,3.5
+fsl_fast,preventad-open,failed,3.5
+fsl_fast,preventad-open-bids,success,3.25
+fsl_fast,visual-working-memory,success,3.0
+fsl_first,Khanlab/HCPUR100-Template,success,3.5
+fsl_first,Learning_Naturalistic_Structure__Processed_fMRI_dataset,failed,3.5
+fsl_first,SIMON-dataset,success,3.5
+fsl_first,cneuromod,failed,3.5
+fsl_first,multicenter-phantom,failed,3.0
+fsl_first,openpain/BrainNetworkChange_Mano,success,3.5
+fsl_first,openpain/cbp_resting,success,3.5
+fsl_first,openpain/placebo_1,failed,3.5
+fsl_first,openpain/placebo_predict_tetreault,success,3.5
+fsl_first,openpain/subacute_longitudinal_study,success,3.5
+fsl_first,openpain/thermal,success,3.5
+fsl_first,preventad-open,failed,3.5
+fsl_first,preventad-open-bids,success,3.25
+fsl_probtrackx2,Comparing_Perturbation_Modes_for_Evaluating_Instabilities_in_Neuroimaging__Processed_NKI_RS_Subset__08_2019_,failed,4.0
+fsl_probtrackx2,Numerically_Perturbed_Structural_Connectomes_from_100_individuals_in_the_NKI_Rockland_Dataset,failed,4.0
+fsl_probtrackx2,SIMON-dataset,failed,3.0
+fslstats,BigBrain,success,4.0
+fslstats,BigBrain_3DClassifiedVolumes,failed,3.5
+fslstats,Khanlab/BigBrainHippoUnfold,success,3.5
+fslstats,Khanlab/BigBrainMRICoreg,success,3.5
+fslstats,Khanlab/HCPUR100-Template,success,3.5
+fslstats,Learning_Naturalistic_Structure__Processed_fMRI_dataset,success,3.5
+fslstats,MRI_and_unbiased_averages_of_wild_muskrats__Ondatra_zibethicus__and_red_squirrels__Tamiasciurus_hudsonicus_,success,3.5
+fslstats,SIMON-dataset,success,3.25
+fslstats,cneuromod,failed,3.5
+fslstats,multicenter-phantom,failed,3.0
+fslstats,openpain/BrainNetworkChange_Mano,success,3.5
+fslstats,openpain/cbp_resting,success,3.25
+fslstats,openpain/placebo_1,success,3.25
+fslstats,openpain/placebo_predict_tetreault,success,3.5
+fslstats,openpain/subacute_longitudinal_study,success,3.5
+fslstats,openpain/thermal,success,3.25
+fslstats,preventad-open,failed,3.5
+fslstats,preventad-open-bids,success,3.166666666666666
+mask2boundary,Comparing_Perturbation_Modes_for_Evaluating_Instabilities_in_Neuroimaging__Processed_NKI_RS_Subset__08_2019_,failed,4.0
+mask2boundary,Numerically_Perturbed_Structural_Connectomes_from_100_individuals_in_the_NKI_Rockland_Dataset,failed,4.0
+mask2boundary,cneuromod,failed,3.5
+ndmg,Comparing_Perturbation_Modes_for_Evaluating_Instabilities_in_Neuroimaging__Processed_NKI_RS_Subset__08_2019_,failed,4.0
+ndmg,Khanlab/HCPUR100-Template,failed,3.0
+ndmg,Numerically_Perturbed_Structural_Connectomes_from_100_individuals_in_the_NKI_Rockland_Dataset,failed,4.0
+ndmg,SIMON-dataset,failed,3.0
+oneVoxel,BigBrain,failed,3.25
+oneVoxel,BigBrain_3DClassifiedVolumes,failed,3.0
+oneVoxel,Comparing_Perturbation_Modes_for_Evaluating_Instabilities_in_Neuroimaging__Processed_NKI_RS_Subset__08_2019_,failed,4.0
+oneVoxel,Khanlab/BigBrainHippoUnfold,success,3.0
+oneVoxel,Khanlab/BigBrainMRICoreg,success,3.0
+oneVoxel,Khanlab/HCPUR100-Template,success,3.0
+oneVoxel,Learning_Naturalistic_Structure__Processed_fMRI_dataset,failed,3.0
+oneVoxel,MRI_and_unbiased_averages_of_wild_muskrats__Ondatra_zibethicus__and_red_squirrels__Tamiasciurus_hudsonicus_,failed,3.0
+oneVoxel,Numerically_Perturbed_Structural_Connectomes_from_100_individuals_in_the_NKI_Rockland_Dataset,failed,4.0
+oneVoxel,SIMON-dataset,success,3.0
+oneVoxel,cneuromod,failed,3.5
+oneVoxel,mm_neo_atlas,failed,3.0
+oneVoxel,openpain/BrainNetworkChange_Mano,success,3.0
+oneVoxel,openpain/cbp_resting,success,3.0
+oneVoxel,openpain/placebo_1,success,3.0
+oneVoxel,openpain/placebo_predict_tetreault,success,3.0
+oneVoxel,openpain/subacute_longitudinal_study,success,3.0
+oneVoxel,openpain/thermal,success,3.0
+oneVoxel,preventad-open,failed,3.0
+oneVoxel,preventad-open-bids,success,3.0
+oneVoxel,visual-working-memory,success,3.0

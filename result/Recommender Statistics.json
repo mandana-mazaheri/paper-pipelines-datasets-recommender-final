@@ -1,0 +1,17 @@
+{
+    "Num of all items": 704,
+    "Num of Assessed By Experts": 551,
+    "Num of Not Assessed By Experts": 153,
+    "Num of Success Predicted By Experts": 288,
+    "Num of Tests": 288,
+    "Num of Tests is failed": 19,
+    "Num of Tests is wrong data or wrong format": 48,
+    "Num of Tests is not available": 59,
+    "Num of Tests is pipeline issue": 28,
+    "Num of Tests is success": 134,
+    "Num of Tests is not tested": 416,
+    "Num of 100% Assessed Success": 189,
+    "Num of Cells With Comment": 551,
+    "Num of Total Comments": 767,
+    "Average Expert Comments per Cell": 1.3920145190562614
+}
